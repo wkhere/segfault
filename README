@@ -1,0 +1,39 @@
+segfault
+========
+
+USAGE
+-----
+% cc segfault.c
+% ./a.out      
+zsh: segmentation fault  ./a.out
+%                                                       139
+
+
+PURPOSE
+-------
+
+You can learn a lot from this. For example, what exit code is returned
+upon segfault. Or that you really should use zsh, if you're a hacker.
+
+Even if you're a recruiter, you can learn that I can write segfaulting
+code *intentionally*. Well, I've written my first worm which made
+servers cry back in 1995, no wonder I reminded myself how to write 
+a segfaulting code *in a clean way* in 2009. 
+
+Just think of it: so many mandays and code lines are being wasted 
+all over the world, they can cost thousands of dollars and then
+the product still segfaults.
+
+As you can see, I can write properly segfaulting code in 3 (three)
+nicely-formatted lines.
+
+Hope this makes a difference for you.
+
+
+LICENSE
+-------
+
+C'mon!!!
+
+Well oh well. If you really want a license, find my personal data
+on github and please contact me. I will make a special case for you.
